@@ -165,7 +165,7 @@ body{font-family: 'Muli', sans-serif;}
 						padding:10px 15px 10px 45px;
 }
 
-input { margin:0px 0px 0px 15px;}
+input { margin:0px 0px 0px 0px;}
 
 .rotate{
     -moz-transition: all 0.25s linear;
