@@ -1,0 +1,28 @@
+1) Please run an instance of mongodb on the local machine. Use the default port 27017. 
+If you have mongodb running on any other port, Please configure it in line 18 in app.js. 
+
+I made use of 'local' database since it is the default db. This can be changed too.
+
+2) git clone https://github.com/naveengithub89/Wyzerr-Demo.git
+
+   This creates a folder 'Wyzerr-Demo' in your machine.
+
+   Enter the folder using the command  'cd Wyzerr-Demo'.
+
+3) npm install
+
+   This will install all the node dependencies.
+
+4) node app.js
+
+5) Open another terminal and enter the Wyzerr-Demo folder.
+
+   cd Wyzerr-Demo
+
+6) npm run dev
+
+   This runs webpack and its dependencies including babel which transpiles all the jsx code.
+
+7) Run localhost:3000 in the browser. This shoud get the app up and running.
+
+8) Manage Movie List has the options to 'Add' and 'Delete' movies. The 'Wyzerr logo' and 'About Us' are just extra pages.
